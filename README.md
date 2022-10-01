@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on My Personal Portfolio
 - 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on MERN Full Stack Projects
-- 📫 How to reach me: anantgupta.ml
+- 📫 How to reach me: [anantgupta.ml](https://www.anantgupta.ml/)
 <!--
 **Maximus619/Maximus619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
