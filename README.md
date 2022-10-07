@@ -3,31 +3,20 @@
             alt="banner" /></div>
     <h1 align="center">Hi 👋, I'm Anant</h1>
     <h3 align="center">A passionate MERN Full-Stack Web Developer from India</h3>
-
-
     <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=maximus619&label=Profile%20views&color=0e75b6&style=flat"
             alt="maximus619" /> </p>
-
     <span align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=maximus619" alt="maximus619" /></a> </span>
-
     <span style="margin-right: 300px" align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://icodejr.com/wp-content/uploads/2021/05/codingchild.svg" height="250" width="500"
                 alt="image" /></a></span>
     </br>
-
-
     - 🔭 I’m currently working on **My-Portfolio**
-
     - 🌱 I’m currently learning **Blockchain**
-
     - 👯 I’m looking to collaborate on **MERN Full Stack Projects**
-
     - 💬 Ask me about **React, Node, Java**
-
     - 📫 How to reach me: [anantgupta](https://www.anantgupta.ml/)
-
     <h3 align=" left">Connect with me:</h3>
     <p align="left">
         <a href="https://linkedin.com/in/anantkumargupta" style="margin-right: 10px" target="_blank"><img align="center"
@@ -47,7 +36,6 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
                 alt="<anantkgu104j>/profile" height="30" width="40" /></a>
     </p>
-
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://getbootstrap.com" style="margin-right: 10px" target="_blank" rel="noreferrer">
@@ -105,15 +93,11 @@
                 src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
         </a>
     </p>
-
     <p><img style="margin-right: 10px" align="left"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus619&show_icons=true&locale=en&layout=compact"
             alt="maximus619" /></p>
-
     <p>&nbsp;<img style="margin-left: 10px" align="center"
             src="https://github-readme-stats.vercel.app/api?username=maximus619&show_icons=true&locale=en"
             alt="maximus619" /></p>
-
-
     [![@maximus619's Holopin
     board](https://holopin.io/api/user/board?user=maximus619)](https://holopin.io/@maximus619)
