@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="16728264" data-share-method="host" data-aspect-ratio="1.23552" data-width="100%"><a href="https://tenor.com/view/youre-welcome-cute-smile-gif-16728264">Youre Welcome Cute Sticker</a>from <a href="https://tenor.com/search/youre+welcome-stickers">Youre Welcome Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/youre-welcome-cute-smile-gif-16728264" width="300px" height="250px"/>
 
 ### Hi there 👋
 - 🔭 I’m currently working on My Personal Portfolio
