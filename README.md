@@ -52,3 +52,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maximus619&show_icons=true&locale=en&layout=compact" alt="maximus619" /></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maximus619&show_icons=true&locale=en" alt="maximus619" /></p>
+
+[![@maximus619's Holopin board](https://holopin.io/api/user/board?user=maximus619)](https://holopin.io/@maximus619)
+
